@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

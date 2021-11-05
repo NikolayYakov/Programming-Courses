@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.exe
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.deps.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\bin\Debug\netcoreapp3.1\Permutations.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Permutations\obj\Debug\netcoreapp3.1\Permutations.genruntimeconfig.cache

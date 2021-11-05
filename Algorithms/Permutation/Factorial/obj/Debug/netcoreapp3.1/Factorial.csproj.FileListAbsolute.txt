@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Acer\Desktop\Algorithms\Permutation\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

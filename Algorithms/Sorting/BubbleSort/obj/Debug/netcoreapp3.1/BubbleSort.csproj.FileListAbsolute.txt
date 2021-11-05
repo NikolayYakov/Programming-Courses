@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Acer\Desktop\Algorithms\InsertionSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
