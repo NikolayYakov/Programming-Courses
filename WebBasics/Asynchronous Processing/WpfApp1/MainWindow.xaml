@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="189*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" RenderTransformOrigin="0.812,0.91" Margin="261,289,-10,0" Grid.Column="1" Click="Button_Click"/>
+        <CheckBox Content="CheckBox" Margin="114,355,553,49" Grid.Column="1"/>
+        <Button Content="Button" Margin="6,370,690,20" Grid.Column="1"/>
+        <TextBox TextWrapping="Wrap" Text="TextBox" Width="120" Margin="87,380,549,21" RenderTransformOrigin="0.5,0.5" Grid.Column="1">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.591"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.779"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Image x:Name="image1" Margin="0,1,548,314" Grid.ColumnSpan="2"/>
+        <Image x:Name="image2" Margin="211,1,293,314" Grid.Column="1"/>
+        <Image x:Name="image3" Margin="472,1,32,314" Grid.Column="1"/>
+        <Image x:Name="image4" Margin="0,120,548,194" Grid.ColumnSpan="2"/>
+        <Image x:Name="image5" Margin="211,120,293,194" Grid.Column="1"/>
+        <Image x:Name="image6" Margin="472,120,32,194" Grid.Column="1"/>
+
+    </Grid>
+</Window>
